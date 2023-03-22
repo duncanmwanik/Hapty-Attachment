@@ -160,7 +160,7 @@
     (property "Value" "Motor_DC" (at 147.32 96.5199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 142.24 94.996 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 142.24 94.996 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 142.24 94.996 0)
